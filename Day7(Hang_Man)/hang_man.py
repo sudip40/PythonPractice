@@ -23,7 +23,7 @@ word_list = [
     "lime"
 ]
 
-random_number = random.randint(0,20)
+random_number = random.randint(0, 20)
 random_word = word_list[random_number]
 print(random_word)
 
