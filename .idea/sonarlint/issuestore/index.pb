@@ -37,3 +37,5 @@ N
 Auditorium_Solutions/day_12.py,4/7/476ea249fc407d1cf09c35656f0c16df99263c4b
 N
 Auditorium_Solutions/day_13.py,8/8/883b82e6296353cc968f269f0acb839a6af8d8b2
+N
+Auditorium_Solutions/day_14.py,f/1/f1f345d00567fe59f4ec9d61322f8e7bac4dd2bf
