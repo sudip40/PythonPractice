@@ -61,3 +61,5 @@ N
 Auditorium_Solutions/day_24.py,d/5/d513e611a99917c8a6396401abf336999c0a4473
 N
 Auditorium_Solutions/day_25.py,d/7/d7e19274df5cd6fd6b1bf8002e725bb8a9371fc7
+N
+Auditorium_Solutions/day_26.py,e/6/e64bd16e75e562f92c99ebe8e0c32975923e0a3f
