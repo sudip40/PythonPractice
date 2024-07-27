@@ -41,3 +41,13 @@ N
 Auditorium_Solutions/day_14.py,f/1/f1f345d00567fe59f4ec9d61322f8e7bac4dd2bf
 N
 Auditorium_Solutions/day_15.py,8/8/886c152ca6c7234dae5e9edea1cdddbd44d6e540
+N
+Auditorium_Solutions/day_16.py,c/c/cc2d1db6e115cffc79f7d1db144ee41d7e0b5c4d
+N
+Auditorium_Solutions/day_17.py,2/0/20cc4b86ed527883e65176344b7b0fc53d71965b
+N
+Auditorium_Solutions/day_18.py,f/a/fa6553cd2526010f3d1f710d7d9b2fe6802e71ca
+N
+Auditorium_Solutions/day_19.py,9/2/92cc4c533036e42215801b6a65aa3294868ca3f8
+N
+Auditorium_Solutions/day_20.py,a/b/abc149843a456f33209304d871988f77c8e5339c
